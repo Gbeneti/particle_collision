@@ -1,0 +1,10 @@
+sem interseccao 
+ FPS: 60 
+ Altura da caixa: 500 
+ Largura da caixa: 500 
+ Número de partículas: 100 
+ Tipo de colisão: elastic 
+ Coeficiente de resituição: 0.0 
+ Future factor: 1.5 
+ Runtime: 10 
+ NaCl (not) chance 0.4
